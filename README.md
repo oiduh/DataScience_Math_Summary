@@ -5,7 +5,7 @@ Re-learing basic mathematics for Data Science
   - Linear Algebra
     - [X] Systems of Linear Equations
     - [X] Matrices
-    - [ ] Solving Systems of Linear Equations
+    - [X] Solving Systems of Linear Equations
     - [ ] Vector Spaces
     - [ ] Linear Independence
     - [ ] Basis and Rank
