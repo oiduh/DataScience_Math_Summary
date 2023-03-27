@@ -6,7 +6,7 @@ Re-learing basic mathematics for Data Science
     - [X] Systems of Linear Equations
     - [X] Matrices
     - [X] Solving Systems of Linear Equations
-    - [ ] Vector Spaces
+    - [X] Vector Spaces
     - [ ] Linear Independence
     - [ ] Basis and Rank
     - [ ] Linear Mappings
