@@ -13,4 +13,13 @@ Re-learing basic mathematics for Data Science
     - [X] Affine Spaces
     - [ ] Exercises
   - Analytic Geometry
-    - [ ] TODO
+    - [ ] Norms
+    - [ ] Inner Products
+    - [ ] Lengths and Distances
+    - [ ] Angles and Orthogonality
+    - [ ] Orthonormal Basis
+    - [ ] Orthogonal Complement
+    - [ ] Inner Products and Functions
+    - [ ] Orthogonal Projections
+    - [ ] Rotations
+    - [ ] Exercises
