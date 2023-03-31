@@ -9,7 +9,7 @@ Re-learing basic mathematics for Data Science
     - [X] Vector Spaces
     - [X] Linear Independence
     - [X] Basis and Rank
-    - [ ] Linear Mappings
+    - [X] Linear Mappings
     - [ ] Affine Spaces
     - [ ] Exercises
   - Analytic Geometry
