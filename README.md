@@ -13,8 +13,8 @@ Re-learing basic mathematics for Data Science
     - [X] Affine Spaces
     - [ ] Exercises
   - Analytic Geometry
-    - [ ] Norms
-    - [ ] Inner Products
+    - [X] Norms
+    - [X] Inner Products
     - [ ] Lengths and Distances
     - [ ] Angles and Orthogonality
     - [ ] Orthonormal Basis
