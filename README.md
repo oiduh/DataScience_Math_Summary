@@ -16,7 +16,7 @@ Re-learing basic mathematics for Data Science
     - [X] Norms
     - [X] Inner Products
     - [X] Lengths and Distances
-    - [ ] Angles and Orthogonality
+    - [x] Angles and Orthogonality
     - [ ] Orthonormal Basis
     - [ ] Orthogonal Complement
     - [ ] Inner Products and Functions
