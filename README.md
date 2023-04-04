@@ -19,7 +19,7 @@ Re-learing basic mathematics for Data Science
     - [X] Angles and Orthogonality
     - [X] Orthonormal Basis
     - [X] Orthogonal Complement
-    - [ ] Inner Products and Functions
+    - [X] Inner Products and Functions
     - [ ] Orthogonal Projections
     - [ ] Rotations
     - [ ] Exercises
