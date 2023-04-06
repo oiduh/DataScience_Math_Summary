@@ -20,6 +20,13 @@ Re-learing basic mathematics for Data Science
     - [X] Orthonormal Basis
     - [X] Orthogonal Complement
     - [X] Inner Products and Functions
-    - [ ] Orthogonal Projections
+    - [X] Orthogonal Projections
     - [ ] Rotations
     - [ ] Exercises
+
+I started this project to re-learn ML relevant concepts of mathematics.
+Additionally, its purpose is to learn touch typing by reconstructing the
+mathematical definitions and theorems in LaTeX.
+
+Sources:
+https://mml-book.github.io/book/mml-book.pdf
