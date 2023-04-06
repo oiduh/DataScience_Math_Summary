@@ -21,7 +21,16 @@ Re-learing basic mathematics for Data Science
     - [X] Orthogonal Complement
     - [X] Inner Products and Functions
     - [X] Orthogonal Projections
-    - [ ] Rotations
+    - [X] Rotations
+    - [ ] Exercises
+  - Matrix Decompositions
+    - [ ] Determinant and Trace
+    - [ ] Eigenvalues and Eigenvectors
+    - [ ] Cholesky Decomposition
+    - [ ] Eigendecomposition and Diagonalization
+    - [ ] Singular Value Decomposition
+    - [ ] Matrix Approximation
+    - [ ] Matrix Phylogeny
     - [ ] Exercises
 
 I started this project to re-learn ML relevant concepts of mathematics.
