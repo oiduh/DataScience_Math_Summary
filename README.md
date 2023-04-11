@@ -25,7 +25,7 @@ Re-learing basic mathematics for Data Science
     - [ ] Exercises
   - Matrix Decompositions
     - [X] Determinant and Trace
-    - [ ] Eigenvalues and Eigenvectors
+    - [X] Eigenvalues and Eigenvectors
     - [ ] Cholesky Decomposition
     - [ ] Eigendecomposition and Diagonalization
     - [ ] Singular Value Decomposition
