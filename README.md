@@ -28,7 +28,7 @@ Re-learing basic mathematics for Data Science
     - [X] Eigenvalues and Eigenvectors
     - [X] Cholesky Decomposition
     - [X] Eigendecomposition and Diagonalization
-    - [ ] Singular Value Decomposition
+    - [X] Singular Value Decomposition
     - [ ] Matrix Approximation
     - [ ] Matrix Phylogeny
     - [ ] Exercises
