@@ -30,7 +30,7 @@ Re-learing basic mathematics for Data Science
     - [X] Eigendecomposition and Diagonalization
     - [X] Singular Value Decomposition
     - [X] Matrix Approximation
-    - [ ] Matrix Phylogeny
+    - [X] Matrix Phylogeny
     - [ ] Exercises
 
 I started this project to re-learn ML relevant concepts of mathematics.
